@@ -1,0 +1,38 @@
+*{
+   background-image: url(backgroundmovies.jpg);
+   background-size: cover;
+}
+body{
+    font-style: arial;
+}
+caption{
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: solid;
+    color:blueviolet;
+    text-align: center;
+}
+table{
+    width:50% ;
+    border-collapse: collapse;
+    text-align:left;
+    padding: 2%;
+    align-content: center;
+    border-radius: 2% black solid;
+}
+th,td{
+    padding: 12px;
+    border-bottom: 1px solid black;
+}
+th{
+    background-color: bisque;
+}
+td{
+    background-color: rgb(180, 171, 171);
+    font-size: medium;
+}
+#yash{
+    margin-top: 9%;
+    margin-left: 30%;
+    border-radius: 2% black solid;
+}

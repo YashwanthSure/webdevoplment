@@ -1,0 +1,53 @@
+h1{
+    text-align: center;
+    font-size: larger;
+    color: black;
+}
+#box1{
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    margin: 10px;
+    border: 2px;
+    display: inline-block;
+    text-transform: capitalize;
+    background-image: url(electonics.jpg);
+    background-size: cover;
+}
+#box2{
+    height:100px;
+    width: 100px;
+    background-color: aqua;
+    margin: 10px;
+    border: 2px;
+    display: inline-block;
+    text-transform: capitalize;
+    background-image: url(clothing.jpg);
+    background-size: cover;
+}
+#box3{
+    height:100px;
+    width: 100px;
+    background-color: aqua;
+    margin: 10px;
+    border: 2px;
+    display: inline-block;
+    text-transform: capitalize;
+    background-image: url(grocries.jpg);
+    background-size: cover;
+}
+#box4{
+    height:100px;
+    width: 100px;
+    background-color: aqua;
+    margin: 10px;
+    border: 2px;
+    display: inline-block;
+    text-transform: capitalize;
+    background-image: url(medicines.jpg);
+    background-size: cover;
+}
+body{
+    background-image: url(background.jpg.jpg);
+    background-size: cover;
+}

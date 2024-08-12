@@ -1,0 +1,49 @@
+#navbar{
+    height:60px;
+    width:1500px;
+    background-color:rgb(208, 190, 192);
+    text-align:left;
+    font-size:large;
+    font-weight:100px;
+    color:#0a66c2;
+    margin-top: 0%;
+   
+    border-width: 1%;
+    border: 1px solid rgb(48, 48, 48) ;
+}
+#navbar h1{
+    line-height: 0.4;
+    margin-left: 1.5%;
+}
+.contanaier{
+    height:400px;
+    width: 300px;
+    margin-top: 5%;
+    margin-left:40%;
+    border-radius: 5px;
+    border: 2px solid blue;
+    background-color: rgb(49, 71, 71);
+}
+.contanaier h2{
+    font-size: medium;
+    margin-left: 22px;
+    
+}
+.contanaier h1{
+    font-size: large;
+    text-align: center;
+}
+#yash{
+    margin-top: 70px;
+    margin-left:22px;
+    height:100px;
+    width:300px;
+    line-height: 0.4%;
+}
+#fristform{
+    margin-top: 5px;
+}
+#form{
+    margin-top:5%;
+}
+

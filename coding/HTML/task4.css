@@ -1,0 +1,35 @@
+*{
+    background-color: bisque;
+    background-image: url(backgroundmovies.jpg);
+    background-size: cover;
+}
+#nar{
+    height: 30px;
+    width: 1400px;
+    background: red;
+    text-align: center;
+    font-size: large;
+    text-decoration:greenyellow;
+    margin-bottom: 0%;
+}
+#name{
+    margin-left: 600px;
+    margin-top: 10px;
+    font-size: medium;
+}
+#password{
+    margin-left: 600px;
+    margin-top: 10px;
+}
+#DOB{
+    margin-left: 600px;
+    margin-top: 10px;
+}
+#button{
+    margin-left: 680px;
+    margin-top: 30px;
+
+}
+#ravi{
+    margin-top: 6%;
+}

@@ -1,0 +1,55 @@
+*{
+    background-image: url(cantainer\ background.jpg);
+    background-size: cover;
+}
+
+h1{
+    color: black;
+    text-align: center;
+    font-size: larger;
+    text-decoration: dotted;
+}
+div{
+    height:100px;
+    width: 100px;
+    display: inline-block;
+    border: 2pxs black;
+    text-align: center;
+    font-size:larger;
+    border: 2px solid black;
+    display: inline-block;
+    background-image: none;
+}
+#contanier{
+    height: 300px;
+    width: 800px;
+    text-align: center;
+    display: flex;
+    margin-left: 300px;
+}
+#a{
+    background-color: aqua;
+    background-image: url(clothing.jpg);
+    background-size: cover;
+    margin: 10px;
+    margin-bottom: 200px;
+    
+}
+#b{
+    background-color: red;
+    background-image: url(electonics.jpg);
+    background-size: cover;
+    margin: 10px;
+}
+#c{
+    background-color:greenyellow;
+    background-image: url(grocries.jpg);
+    background-size: cover;
+    margin: 10px;
+}
+#d{
+    background-color:violet;
+    background-image: url(medicines.jpg);
+    background-size: cover;
+    margin: 10px;
+}

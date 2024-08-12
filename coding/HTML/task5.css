@@ -1,0 +1,24 @@
+*{
+ background-color: aquamarine;
+}
+#narbar{
+    height: 50px;
+    width: 1400px;
+    background-color: beige;
+    text-decoration:solid;
+    text-align: center;
+    font-size: 200%;
+    font-style: oblique;
+}
+#data{
+    margin-top: 3%;
+    margin-left: 42%;
+    margin-right:60%;
+    border: 3px solid;
+    border-radius: 1%;
+    border-color: rgb(80, 16, 128);
+    height: 300px;
+    width: 250px;
+    background-image: url(HTML/yash.jpg);
+    background-size: contain;
+}
